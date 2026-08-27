@@ -4,8 +4,6 @@ Penetration tester and CS student in San Francisco, building security-focused AI
 
 Currently: penetration testing at Cybertrust America · Computer Science at City College of San Francisco · CompTIA Security+
 
-**Portfolio: [charlieijk.github.io/Portfolio](https://charlieijk.github.io/Portfolio/)** — every product below as a navigable case study.
-
 ## Featured work
 
 - **[Axiom](https://github.com/charlieijk/Axiom)** — deterministic Rust MAP-Elites sandbox evolving body plans and neural controllers; every performance claim gated in CI by SHA-256 report equivalence
@@ -19,4 +17,4 @@ Fourteen more repos — simulators, game engines, and analysis tools, most built
 
 ## Contact
 
-[Portfolio](https://charlieijk.github.io/Portfolio/) · charliewcullen@gmail.com · [LinkedIn](https://www.linkedin.com/in/charliewcullen)
+charliewcullen@gmail.com · [LinkedIn](https://www.linkedin.com/in/charliewcullen)
