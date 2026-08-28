@@ -18,3 +18,7 @@ Fourteen more repos — simulators, game engines, and analysis tools, most built
 ## Contact
 
 charliewcullen@gmail.com · [LinkedIn](https://www.linkedin.com/in/charliewcullen)
+
+---
+
+This page is licensed [CC BY 4.0](LICENSE).
